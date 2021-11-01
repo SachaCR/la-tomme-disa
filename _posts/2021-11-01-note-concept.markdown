@@ -2,11 +2,9 @@
 layout: post
 title: Notre Concept
 date: 2021-11-01T08:00:00.000Z
-categories: page
 ---
 
 <img src="/images/fulls/01.jpg" class="fit image"> 
-
 **Un repas en famille, un événement à célébrer ?** Nous réaliserons vos plateaux de fromage sur commande et selon vos envies
 
 **Une soirée entre amis et pas d’idée de cadeau à apporter ?** Et bien pensez à la planche apéro !! Elle saura conquérir chaque convive ; Et rien de plus simple : vous n’aurez qu’à sortir la planche de sa belle boîte d’emballage et vous n’aurez plus qu’à vous laisser tenter par les différentes variétés qui vous sauront proposées*
