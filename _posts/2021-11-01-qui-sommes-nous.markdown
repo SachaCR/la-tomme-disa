@@ -28,8 +28,8 @@ Aujourd’hui, je concrétise ma seconde vie ! Je reprends ma passion pour le f
 ma fromagerie, à l’endroit où je voulais et avec le concept, tel que nous l’avions écrit avec
 Thomas, mon conjoint.
 
-Le nom de &quot; LA TOMME D’ISA&quot; est venu naturellement, c’est un bon jeu de mot, mais pour ça je
+Le nom de &quot;LA TOMME D’ISA&quot; est venu naturellement, c’est un bon jeu de mot, mais pour ça je
 vous laisse réfléchir et me donner vos trouvailles quand vous viendrez à la boutique 😊
-&quot; LA TOMME D’ISA&quot; n’est donc pas le fruit du hasard mais bien l’envie d’avoir ma propre
+&quot;LA TOMME D’ISA&quot; n’est donc pas le fruit du hasard mais bien l’envie d’avoir ma propre
 boutique, d’avoir la chance de sélectionner mes produits et de pouvoir conseiller au mieux les
 amateurs de fromage
