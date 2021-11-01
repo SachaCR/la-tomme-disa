@@ -2406,6 +2406,7 @@
 			input[type="submit"].special:hover,
 			input[type="reset"].special:hover,
 			input[type="button"].special:hover,
+			
 			.button.special:hover {
 				background-color: #5cc6a7;
 				border-color: #5cc6a7;
