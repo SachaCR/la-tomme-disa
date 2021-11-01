@@ -15,6 +15,6 @@ categories: page
 
 **Envie … d’une fondue savoyarde ?** Beaufort, Emmental de Savoie, Abondance constitueront les fromages à privilégier. Une légère touche de Reblochon pourra vous être proposée pour renforcer l’onctuosité de votre fondue. Nous vous préparerons votre fondue et la râperons avec soin.
 
-##Nous aurons à cœur de vous faire goûter des fromages fabriqués par des petits producteurs qui sauront ravire vos papilles par leur goût et leur originalité
+## Nous aurons à cœur de vous faire goûter des fromages fabriqués par des petits producteurs qui sauront ravire vos papilles par leur goût et leur originalité
 
 *Une discrète étiquette portant le nom de chaque fromage vous simplifiera la vie.
