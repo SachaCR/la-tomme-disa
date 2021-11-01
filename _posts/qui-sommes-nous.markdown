@@ -8,7 +8,7 @@ du plateau à fromage était mon moment préféré du repas.
 
 A tel point, qu’adolescente, je travaillais, pendant mes vacances scolaires, chez Nelly, qui
 tenait une fromagerie ambulante. Même si les horaires pour une ado, n’étaient pas des plus
-sympas, le fait que je raffolais des fromage, me faisait oublier ce léger détail  .
+sympas, le fait que je raffolais des fromage, me faisait oublier ce léger détail. 😊
 Ce partage, cette convivialité, avec ses clients amoureux du fromage étaient enrichissants.
 Nelly avait tellement de plaisir à installer ses chers fromages dans sa vitrine, à en prendre
 soin, à la placer avec douceur, que je trouvais cela tellement beau, comme des bijoux qu’on
@@ -27,7 +27,7 @@ ma fromagerie, à l’endroit où je voulais et avec le concept, tel que nous l�
 Thomas, mon conjoint.
 
 Le nom de &quot; LA TOMME D’ISA&quot; est venu naturellement, c’est un bon jeu de mot, mais pour ça je
-vous laisse réfléchir et me donner vos trouvailles quand vous viendrez à la boutique 
+vous laisse réfléchir et me donner vos trouvailles quand vous viendrez à la boutique 😊
 &quot; LA TOMME D’ISA&quot; n’est donc pas le fruit du hasard mais bien l’envie d’avoir ma propre
 boutique, d’avoir la chance de sélectionner mes produits et de pouvoir conseiller au mieux les
 amateurs de fromage
