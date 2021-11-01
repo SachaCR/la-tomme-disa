@@ -2071,15 +2071,15 @@
 				width: 100%;
 			}
 
-		.image.avatar {
+		.image.logo {
 			border-radius: 100%;
 		}
 
-			.image.avatar:before {
+			.image.logo:before {
 				display: none;
 			}
 
-			.image.avatar img {
+			.image.logo img {
 				border-radius: 100%;
 				width: 100%;
 			}
@@ -2487,7 +2487,7 @@
 			margin: 0;
 		}
 
-		#header .image.avatar {
+		#header .image.logo {
 			margin: 0 0 1em 0;
 			width: 6.25em;
 		}
