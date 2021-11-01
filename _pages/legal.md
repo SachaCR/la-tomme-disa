@@ -1,1 +1,5 @@
+---
+layout: page
+---
+
 # Mentions légales
