@@ -3212,3 +3212,7 @@
  	.cms-editor-active .editor-link {
  		display: inline-block;
  	}
+
+	.informations li {
+		list-style-type: none;
+	}
