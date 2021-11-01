@@ -3216,3 +3216,7 @@
 	.informations li {
 		list-style-type: none;
 	}
+
+	.warning {
+		color: #ddc700
+	}
