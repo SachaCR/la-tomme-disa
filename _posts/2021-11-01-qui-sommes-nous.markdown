@@ -4,7 +4,7 @@ title: Qui sommes nous ?
 date: 2021-11-01T23:00:00.000Z
 categories: page
 ---
-<img src="/images/fulls/fromages-2.jpeg" class="fit image"> 
+
 Depuis, aussi longtemps que je me souvienne, j’ai toujours adoré le fromage. Petite, l’arrivée
 du plateau à fromage était mon moment préféré du repas.
 

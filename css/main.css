@@ -3217,6 +3217,6 @@
 		list-style-type: none;
 	}
 
-	h1 .warning {
+	#header h1 .warning {
 		color: #ddc700
 	}
