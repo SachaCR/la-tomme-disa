@@ -14,6 +14,7 @@ La Tomme d'Isa vous propose de réaliser vos plateaux de fêtes de fin d'année 
 - Plateau pour 10/12 personnes : 95 €
 
 >*Ces prix sont à titre indicatif et pourront varier en fonction de vos particularités.
+
 N'hésitez pas à venir dans notre boutique afin de que nous puissions vous conseiller et établir ensemble votre plateau idéal 
 
 Date limite de réservation de commande : le mardi 21 décembre 2021.
