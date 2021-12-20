@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Plateaux en Fêtes
-date: 2021-12-020T08:00:00.000Z
+date: 2021-12-20T08:00:00.000Z
 ---
 
 La Tomme d'Isa vous propose de réaliser vos plateaux de fêtes de fin d'année :
