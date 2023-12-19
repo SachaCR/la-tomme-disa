@@ -17,8 +17,6 @@ La Tomme d'Isa vous propose de réaliser vos plateaux de fêtes de fin d'année 
 
 N'hésitez pas à venir dans notre boutique afin de que nous puissions vous conseiller et établir ensemble votre plateau idéal 
 
-Date limite de réservation de commande : le mardi 21 décembre 2021.
-
 <img src="/images/fulls/plateaux/plateaux-2.jpeg" class="fit image"> 
 <img src="/images/fulls/plateaux/plateaux-3.jpeg" class="fit image"> 
 <img src="/images/fulls/plateaux/plateaux-4.jpeg" class="fit image"> 
